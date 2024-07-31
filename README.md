@@ -8,6 +8,7 @@ A plugin that allows the Beam webcam-based eye tracking engine to be used with [
 2. Run & calibrate Beam eye tracker
 3. Turn on Gaming Extensions in Beam
 4. Select the Beam eye tracker as an input in Optikey
+5. Always run Beam _before_ launching Optikey
 
 ### More details - installing and setting up Beam
 
