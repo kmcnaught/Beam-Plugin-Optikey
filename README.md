@@ -9,7 +9,7 @@ A plugin that allows the Beam webcam-based eye tracking engine to be used with [
 3. Turn on Gaming Extensions in Beam
 4. Select the Beam eye tracker as an input in Optikey
 
-### More details 
+### More details - installing and setting up Beam
 
 The [Beam eyetracker engine](https://beam.eyeware.tech/) is [available through Steam](https://store.steampowered.com/app/2375780/Beam_Eye_Tracker/) or for direct install via the [Beam website](https://beam.eyeware.tech/).
 
@@ -20,3 +20,11 @@ Either way, after installing the Beam eye tracker run it and Calibrate. In the B
 Note that the eye tracking overlay **does not work correctly** with a docked app such as Optikey, so if you want an overlay, you would be better to use the overlay built into Optikey (Management Console -> Visuals -> Gaze Indicator Style)
 
 ![screenshot of Beam options](https://github.com/user-attachments/assets/e644a6e9-d20a-4412-a6ed-c9ac9fd6a21a)
+
+### More details - setting up Optikey
+
+Install the latest version (4.1+) of Optikey (Pro/Mouse/Chat/Symbol) from [Optikey releases](https://github.com/OptiKey/OptiKey/releases) or via the [Optikey website](https://optikey.org/) which contains further information about the features of each app. 
+
+Run Optikey. Right-click on the on-screen keyboard and select "Management Console (Settings)". Go to the "Pointing & Selecting" tab, and under "POINTING: Source" click "Find more eye tracker options online". This plugin should be listed as an option, which you can install and use as Optikey's input. 
+
+![image](https://github.com/user-attachments/assets/62e7627f-152e-4150-86b8-d4f0ed5c74a3)
